@@ -1,2 +1,1 @@
-# GamersGrottoToolkit
- 
+# This is a README file
